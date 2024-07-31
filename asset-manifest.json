@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/garden-scene-react/static/css/main.558ec2fc.css",
+    "main.js": "/garden-scene-react/static/js/main.d3d62a9c.js",
+    "static/js/453.244a6133.chunk.js": "/garden-scene-react/static/js/453.244a6133.chunk.js",
+    "index.html": "/garden-scene-react/index.html",
+    "main.558ec2fc.css.map": "/garden-scene-react/static/css/main.558ec2fc.css.map",
+    "main.d3d62a9c.js.map": "/garden-scene-react/static/js/main.d3d62a9c.js.map",
+    "453.244a6133.chunk.js.map": "/garden-scene-react/static/js/453.244a6133.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.558ec2fc.css",
+    "static/js/main.d3d62a9c.js"
+  ]
+}
